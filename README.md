@@ -1,1 +1,2 @@
 # Traffic-Prediction-ML
+The working prototype for traffic prediction employs a machine learning model trained on historical traffic data to forecast real-time traffic conditions. This prototype integrates five machine learning algorithms—K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Support Vector Machine (SVM), and Random Forest—to assess their individual performance in predicting traffic patterns. Each algorithm processes various traffic-related features such as weather, peak hours, and random events to enhance prediction accuracy. 
